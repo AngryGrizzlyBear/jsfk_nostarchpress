@@ -182,3 +182,12 @@ var harpoGuess = 7;
 console.log(mySecretNumber === harpoGuess)
 var grouchoGuess = 5;
 console.log(mySecretNumber === grouchoGuess)
+
+// Double Equals
+
+var stringNumber = "5";
+var actualNumber = 5;
+console.log(stringNumber === actualNumber);
+console.log(stringNumber == actualNumber);
+console.log(0 == false);
+console.log("false" == false);
