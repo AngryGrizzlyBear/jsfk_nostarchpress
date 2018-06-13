@@ -102,3 +102,9 @@ console.log(myThing)
 var numberNine = 9;
 var stringNine = "9";
 console.log(stringNine + numberNine);
+
+// Joining Strings
+
+var greeting = "Hello ";
+var myName = "Nick";
+console.log( greeting + myName);
