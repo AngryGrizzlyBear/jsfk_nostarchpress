@@ -147,3 +147,9 @@ console.log(javascriptIsCool);
 var hadShower = true;
 var hasBackpack = true;
 console.log(hadShower && hasBackpack);
+
+// || or
+
+var hasApple = true;
+var hasOrange = false;
+console.log(hasApple || hasOrange);
