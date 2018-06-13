@@ -153,3 +153,9 @@ console.log(hadShower && hasBackpack);
 var hasApple = true;
 var hasOrange = false;
 console.log(hasApple || hasOrange);
+
+// ! not
+
+var isWeekend = true;
+var needToShowerToday = !isWeekend;
+console.log(needToShowerToday)
