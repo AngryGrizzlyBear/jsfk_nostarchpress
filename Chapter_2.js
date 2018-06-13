@@ -119,3 +119,16 @@ var script = "Script";
 console.log(script.length);
 var javascript = java + script;
 console.log(javascript.length);
+
+// Getting a single character from a string.
+
+var myName = "Nick";
+console.log(myName[0]);
+console.log(myName[1]);
+console.log(myName[2]);
+
+var codeWord1 = "are";
+var codeWord2 = "tubas";
+var codeWord3 = "unsafe";
+var codeWord4= "?!";
+console.log(codeWord1[1] + codeWord2[1] + codeWord3[1] + codeWord4[1]);
