@@ -39,3 +39,9 @@ var secondsInAMinute = 60;
 var secondsInAnHour = 60;
 var secondsInAnHour = secondsInAMinute * secondsInAnHour;
 console.log(secondsInAnHour)
+
+// Seconds in a day
+
+var hoursInADay = 24;
+var secondsInADay = secondsInAnHour *  hoursInADay;
+console.log(secondsInADay);
