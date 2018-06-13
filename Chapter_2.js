@@ -47,6 +47,7 @@ var secondsInADay = secondsInAnHour *  hoursInADay;
 console.log(secondsInADay);
 
 // Seconds in a year
+
 var daysInAYear = 365;
 var secondsInAYear = daysInAYear * secondsInADay;
 console.log(secondsInAYear)
@@ -56,3 +57,10 @@ console.log(secondsInAYear)
 
 var age = 29;
 console.log(age * secondsInAYear);
+
+// Incrementing and  Decrementing
+
+var highFives = 0;
+console.log(++highFives);
+console.log(++highFives);
+console.log(--highFives);
