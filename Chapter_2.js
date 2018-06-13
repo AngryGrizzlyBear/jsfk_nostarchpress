@@ -174,3 +174,11 @@ console.log(shouldGoToSchool);
 var height = 60;
 var heightRestriction = 60;
 console.log(height >= heightRestriction);
+
+var mySecretNumber = 5;
+var chicoGuess = 3;
+console.log(mySecretNumber === chicoGuess)
+var harpoGuess = 7;
+console.log(mySecretNumber === harpoGuess)
+var grouchoGuess = 5;
+console.log(mySecretNumber === grouchoGuess)
