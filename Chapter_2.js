@@ -45,3 +45,8 @@ console.log(secondsInAnHour)
 var hoursInADay = 24;
 var secondsInADay = secondsInAnHour *  hoursInADay;
 console.log(secondsInADay);
+
+// Seconds in a year
+var daysInAYear = 365;
+var secondsInAYear = daysInAYear * secondsInADay;
+console.log(secondsInAYear)
