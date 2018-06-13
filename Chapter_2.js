@@ -28,3 +28,14 @@ console.log((15 + 9) * 2)
 
 var age = 12;
 console.log(age)
+
+var numberOfSiblings = 1 + 3;
+var numberOfCandies = 8;
+console.log(numberOfCandies / numberOfSiblings);
+
+// Seconds in an hour
+
+var secondsInAMinute = 60;
+var secondsInAnHour = 60;
+var secondsInAnHour = secondsInAMinute * secondsInAnHour;
+console.log(secondsInAnHour)
