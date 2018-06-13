@@ -136,3 +136,8 @@ console.log(codeWord1[1] + codeWord2[1] + codeWord3[1] + codeWord4[1]);
 // Changing strings to all capital or all lowercase letters
 console.log("Hello there, how are you doing?".toUpperCase());
 console.log("Hello there, how are you doing?".toLowerCase());
+
+// Booleans
+
+var javascriptIsCool = true;
+console.log(javascriptIsCool);
