@@ -108,3 +108,14 @@ console.log(stringNine + numberNine);
 var greeting = "Hello ";
 var myName = "Nick";
 console.log( greeting + myName);
+
+// Finding the length of a string
+
+console.log("Supercalifragilisticexpialidocious".length);
+
+var java = "Java";
+console.log(java.length);
+var script = "Script";
+console.log(script.length);
+var javascript = java + script;
+console.log(javascript.length);
