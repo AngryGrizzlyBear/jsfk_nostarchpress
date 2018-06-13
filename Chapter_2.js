@@ -80,4 +80,11 @@ var score = 10;
 score += 7;
 console.log(score)
 score -= 3;
-console.log(score)
+console.log(score);
+
+// Other examples
+var balloons = 100;
+console.log(balloons *= 2);
+
+var balloons = 100;
+console.log(balloons /=  4);
