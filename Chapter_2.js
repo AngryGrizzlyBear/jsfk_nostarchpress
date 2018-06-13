@@ -168,3 +168,9 @@ var hasApple = false;
 var hasOrange = true;
 var shouldGoToSchool = !isWeekend && hadShower && (hasApple || hasOrange);
 console.log(shouldGoToSchool);
+
+// Comparing Numbers with Booleans
+
+var height = 60;
+var heightRestriction = 60;
+console.log(height >= heightRestriction);
