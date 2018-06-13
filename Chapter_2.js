@@ -23,3 +23,8 @@ false
 49.38
 1234 + 57 * 3 - 31 / 4;
 console.log((15 + 9) * 2)
+
+// Variables
+
+var age = 12;
+console.log(age)
