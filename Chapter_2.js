@@ -88,3 +88,17 @@ console.log(balloons *= 2);
 
 var balloons = 100;
 console.log(balloons /=  4);
+
+// Strings
+console.log("Hello world!");
+
+var myAwesomeString = "Something REALLY awesome!!!";
+console.log(myAwesomeString)
+
+var myThing = 5;
+myThing = "this is a string";
+console.log(myThing)
+
+var numberNine = 9;
+var stringNine = "9";
+console.log(stringNine + numberNine);
