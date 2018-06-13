@@ -141,3 +141,9 @@ console.log("Hello there, how are you doing?".toLowerCase());
 
 var javascriptIsCool = true;
 console.log(javascriptIsCool);
+
+// logical expressions
+
+var hadShower = true;
+var hasBackpack = true;
+console.log(hadShower && hasBackpack);
