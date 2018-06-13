@@ -64,3 +64,20 @@ var highFives = 0;
 console.log(++highFives);
 console.log(++highFives);
 console.log(--highFives);
+
+highFives = 0;
+console.log(highFives++)
+console.log(highFives++)
+console.log(highFives)
+
+// += (Plus-Equals) and -= (Minus Equals)
+
+var x = 10;
+x = x + 5;
+console.log(x)
+
+var score = 10;
+score += 7;
+console.log(score)
+score -= 3;
+console.log(score)
