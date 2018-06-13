@@ -159,3 +159,12 @@ console.log(hasApple || hasOrange);
 var isWeekend = true;
 var needToShowerToday = !isWeekend;
 console.log(needToShowerToday)
+
+// Combining Logical Operators
+
+var isWeekend = false;
+var hadShower = true;
+var hasApple = false;
+var hasOrange = true;
+var shouldGoToSchool = !isWeekend && hadShower && (hasApple || hasOrange);
+console.log(shouldGoToSchool);
