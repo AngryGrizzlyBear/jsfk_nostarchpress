@@ -22,3 +22,8 @@ console.log(dinosaurs)
 dinosaurs[9] = "Giant Three Toed Sloth"
 
 console.log(dinosaurs)
+
+//Mixing Data Types in an array
+
+var dinosaursAndNumbers = [3, "dinosaurs", ["triceratops", "stegosaurus", 3627.5], 10]
+console.log(dinosaursAndNumbers[2][0])
