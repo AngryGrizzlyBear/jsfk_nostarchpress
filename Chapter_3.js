@@ -44,3 +44,14 @@ animals.unshift("Monkey");
 animals.unshift("Polar Bear")
 console.log(animals)
 console.log(animals.length)
+
+// Removing Elements from an Array
+
+var lastAnimal = animals.pop();
+console.log(animals.pop())
+console.log(animals)
+console.log(animals.unshift(lastAnimal))
+console.log(animals)
+var firstAnimal = animals.shift();
+console.log(firstAnimal)
+console.log(animals)
