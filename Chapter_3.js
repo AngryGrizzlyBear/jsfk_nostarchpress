@@ -55,3 +55,11 @@ console.log(animals)
 var firstAnimal = animals.shift();
 console.log(firstAnimal)
 console.log(animals)
+
+// Adding Arrays
+var furryAnimals = ["Alpaca", "Ring-tailed Lemur", "Yeti"];
+var scalyAnimals = ["Boa Constrictor", "Godzilla"];
+var furryAndScalyAnimals = furryAnimals.concat(scalyAnimals);
+console.log(furryAndScalyAnimals)
+console.log(furryAnimals)
+console.log(scalyAnimals)
