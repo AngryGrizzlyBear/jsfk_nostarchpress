@@ -32,3 +32,11 @@ console.log(dinosaursAndNumbers[2][0])
 var maniacs = ["Yakko", "Wakko", "Dot"];
 console.log(maniacs.length)
 console.log(maniacs[maniacs.length -1])
+
+// Adding elements to an array
+var animals = [];
+animals.push("Cat");
+animals.push("Dog");
+animals.push("Llama")
+console.log(animals)
+console.log(animals.length)
