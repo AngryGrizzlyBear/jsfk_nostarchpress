@@ -191,3 +191,11 @@ console.log(stringNumber === actualNumber);
 console.log(stringNumber == actualNumber);
 console.log(0 == false);
 console.log("false" == false);
+
+// Try it out!
+
+var age = 12;
+var accompanied = true;
+var canGoToTheMovies =  age >= 13 || accompanied
+console.log(canGoToTheMovies)
+
