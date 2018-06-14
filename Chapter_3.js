@@ -27,3 +27,8 @@ console.log(dinosaurs)
 
 var dinosaursAndNumbers = [3, "dinosaurs", ["triceratops", "stegosaurus", 3627.5], 10]
 console.log(dinosaursAndNumbers[2][0])
+
+// Working with arrays, finding the length of an array.
+var maniacs = ["Yakko", "Wakko", "Dot"];
+console.log(maniacs.length)
+console.log(maniacs[maniacs.length -1])
