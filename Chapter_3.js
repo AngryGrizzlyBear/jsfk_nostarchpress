@@ -40,3 +40,7 @@ animals.push("Dog");
 animals.push("Llama")
 console.log(animals)
 console.log(animals.length)
+animals.unshift("Monkey");
+animals.unshift("Polar Bear")
+console.log(animals)
+console.log(animals.length)
