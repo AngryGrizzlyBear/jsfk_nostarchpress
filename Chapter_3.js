@@ -80,3 +80,13 @@ console.log(colors.indexOf("purple"));
 
 var insects = ["Bee", "Ant", "Bee", "Ant"];
 console.log(insects.indexOf("Bee"));
+
+// Turning an array into a string.
+var boringAnimals = ["Monkey", "Cat", "Fish", "Lizard"];
+console.log(boringAnimals.join(" "))
+
+var myNames = ["Nicholas", "Andrew", "Maxwell", "Morgan"];
+console.log(myNames.join(" "))
+
+var ages = [11, 14, 79]
+console.log(ages.join(" - "))
