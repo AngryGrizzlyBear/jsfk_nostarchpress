@@ -63,3 +63,10 @@ var furryAndScalyAnimals = furryAnimals.concat(scalyAnimals);
 console.log(furryAndScalyAnimals)
 console.log(furryAnimals)
 console.log(scalyAnimals)
+
+// Joining multiple arrays
+var furryAnimals = ["Alpaca", "Ring-tailed Lemur", "Yeti"];
+var scalyAnimals = ["Boa Constrictor", "Godzilla"];
+var featheredAnimals = ["Macaw", "Dodo"];
+var allAnimals = furryAnimals.concat(scalyAnimals,featheredAnimals)
+console.log(allAnimals)
