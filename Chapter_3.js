@@ -90,3 +90,14 @@ console.log(myNames.join(" "))
 
 var ages = [11, 14, 79]
 console.log(ages.join(" - "))
+
+// Useful things to do with arrays
+var landmarks = [];
+landmarks.push("My House");
+landmarks.push("Front path");
+landmarks.push("Flickering streetlamp");
+landmarks.push("Leaky fire hydrant");
+landmarks.push("Fire station");
+landmarks.push("Cat rescue center");
+landmarks.push("My old school");
+landmarks.push("My friend's house");
