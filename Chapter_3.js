@@ -70,3 +70,9 @@ var scalyAnimals = ["Boa Constrictor", "Godzilla"];
 var featheredAnimals = ["Macaw", "Dodo"];
 var allAnimals = furryAnimals.concat(scalyAnimals,featheredAnimals)
 console.log(allAnimals)
+
+// Finding the index of an element in an array
+var colors = ["red", "green", "blue"];
+console.log(colors.indexOf("blue"));
+console.log(colors.indexOf("green"));
+
