@@ -101,3 +101,25 @@ landmarks.push("Fire station");
 landmarks.push("Cat rescue center");
 landmarks.push("My old school");
 landmarks.push("My friend's house");
+
+// Going in reverse order with pop
+landmarks.pop();
+"My friends house"
+console.log(landmarks)
+landmarks.pop();
+"my old school"
+console.log(landmarks)
+landmarks.pop()
+"Cat rescue center"
+landmarks.pop();
+"Fire station"
+console.log(landmarks)
+landmarks.pop();
+"Leaky fire hydrant"
+landmarks.pop();
+"Flickering streetlamp"
+landmarks.pop();
+"Front path"
+landmarks.pop();
+"My house"
+console.log(landmarks)
