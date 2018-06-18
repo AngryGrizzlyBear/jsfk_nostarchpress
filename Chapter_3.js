@@ -75,4 +75,8 @@ console.log(allAnimals)
 var colors = ["red", "green", "blue"];
 console.log(colors.indexOf("blue"));
 console.log(colors.indexOf("green"));
+console.log(colors[2]);
+console.log(colors.indexOf("purple"));
 
+var insects = ["Bee", "Ant", "Bee", "Ant"];
+console.log(insects.indexOf("Bee"));
